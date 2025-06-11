@@ -882,7 +882,7 @@ _Related: [Groupware](#groupware)_
 - [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
 - [Syncthing](https://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool. ([Source Code](https://github.com/syncthing/syncthing)) `MPL-2.0` `Go/Docker/deb`
 - [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison is a file-synchronization tool for OSX, Unix, and Windows. ([Source Code](https://github.com/bcpierce00/unison)) `GPL-3.0` `deb/OCaml`
-
+- [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - The best free self-hosted web-based file manager. ([Source Code]([https://github.com/bcpierce00/unison](https://github.com/gtsteffaniak/filebrowser)))  `Apache-2.0` `Go`
 
 ### File Transfer - Distributed Filesystems
 
